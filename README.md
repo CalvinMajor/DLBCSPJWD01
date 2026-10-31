@@ -1,2 +1,18 @@
 # DLBCSPJWD01
-Submission for the IU Course DLBCSPJWD01
+
+This is a submission for the IU Course DLBCSPJWD01 - a quiz app featuring questions on AI. 
+
+Dependencies: 
+-Python 3
+-Pip packages: firebase_admin flask fpdf2
+
+Installation: 
+-Download or clone repo
+-Insert firebase_credential.json (provided separately) into the base folder
+-Install dependencies (I've included a bash script for this purpose that works on my machine, your mileage will vary depending on OS)
+
+Launch and testing: 
+-run app.py
+-open any web browser
+-go to http://127.0.0.1:5000
+-try the app
